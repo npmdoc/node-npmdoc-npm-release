@@ -1,4 +1,7 @@
-# api documentation for  [npm-release (v1.0.0)](https://github.com/phuu/npm-release#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-release.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-release) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-release.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-release)
+# npmdoc-npm-release
+
+#### basic api documentation for  [npm-release (v1.0.0)](https://github.com/phuu/npm-release#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-release.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-release) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-release.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-release)
+
 #### Tiny tool for releasing npm modules.
 
 [![NPM](https://nodei.co/npm/npm-release.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npm-release)
